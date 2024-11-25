@@ -107,3 +107,5 @@ while i == 0:
     elif pregunta_final == "NO":
         i = 1
         print("Gracias por jugar 😁 !!")
+        
+# agregar juegos (piedra, papel o tijera - black jack)
